@@ -6,6 +6,8 @@ log:
 namespaces:
   - id: 0
     name: videos
+  - id: 2
+    name: Siemens
 
 dsn: memory
 
